@@ -24,6 +24,8 @@ import org.springframework.security.config.annotation.web.WebSecurityConfigurer;
 import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.web.servlet.MockMvc;
+/*
+
 
 
 @ExtendWith(SpringExtension.class)
@@ -91,3 +93,4 @@ public class Test10 {
 				.andExpect(view().name("products/createOrUpdateProductForm"));
     }
 }
+*/
